@@ -5,7 +5,7 @@
 ### 🌱 진도표
 - [x] section 0 : Microservice와 Spring Cloud의 소개
 - [x] section 1 : Servie Discovery
-- [ ] section 2 : API Gateway Service
+- [x] section 2 : API Gateway Service
 - [ ] section 3 : E-commerce 애플리케이션
 - [ ] section 4 : Users Microservice
 - [ ] section 5 : Catalogs and Orders Microservice
